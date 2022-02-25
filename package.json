@@ -56,7 +56,7 @@
     "merkle-bitcoin": "git+https://github.com/boolpath/merkle-bitcoin.git",
     "promise": "*",
     "sha3": "^2.1.3",
-    "hasher-kawpow": "git+https://github.com/MintPond/hasher-kawpow.git"
+    "hasher-kawpow": "git+https://github.com/likloadm/hasher-kawpow.git"
   },
   "deprecated": false,
   "description": "High performance Stratum poolserver in Node.js",
